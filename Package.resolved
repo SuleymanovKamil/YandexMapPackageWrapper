@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "YandexMapsMobile",
+        "repositoryURL": "https://github.com/SuleymanovKamil/YandexMapsMobile",
+        "state": {
+          "branch": "main",
+          "revision": "7436c4f0942f7220f2ea8d32c0e7a17a1bf34160",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
